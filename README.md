@@ -1,4 +1,4 @@
-﻿# Caesar Cipher Cracker
+# Caesar Cipher Cracker
 
 ## Overview
 
@@ -57,3 +57,4 @@ CaesarCipherCracker/
 3. Outputs:
    - Decrypted message
    - Detected Caesar key (shift amount)
+
